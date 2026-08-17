@@ -1,4 +1,4 @@
-# Swapnil Biradar — Personal Portfolio
+# Mithil Valakate — Personal Portfolio
 
 A modern, responsive personal portfolio website showcasing my skills, projects, problem-solving activity, and contact information.
 
@@ -6,7 +6,7 @@ The portfolio is designed to give recruiters and visitors a quick overview of wh
 
 ## 🌐 Live Portfolio
 
-**Portfolio:** [https://swapnilsb18.github.io/portfolio/]
+**Portfolio:** [https://mithil45.github.io/portfolio/]
 
 ---
 
@@ -257,7 +257,7 @@ The goal is not simply to display information, but to demonstrate practical fron
 Clone the repository:
 
 ```bash
-git clone https://github.com/swapnilsb18/portfolio
+git clone https://github.com/mithil45/portfolio
 ```
 
 Navigate into the project:
@@ -314,13 +314,13 @@ Potential future improvements include:
 
 If you'd like to discuss a project, collaboration, internship, or development opportunity, you can contact me through the portfolio's contact section.
 
-**Portfolio:** [https://swapnilsb18.github.io/portfolio/]
+**Portfolio:** [https://mithil45.github.io/portfolio/]
 
-**GitHub:** [https://github.com/swapnilsb18]
+**GitHub:** [https://github.com/mithil45]
 
-**LinkedIn:** [www.linkedin.com/in/swapnil-biradar-025981257]
+**LinkedIn:** [www.linkedin.com/in/mithil-valakate-071814269]
 
-**Email:** [swapnilsbofficial@gmail.com]
+**Email:** [mithilvalakate@gmail.com]
 
 ---
 
